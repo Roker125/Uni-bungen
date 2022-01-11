@@ -2,6 +2,7 @@ public class Exercise1 {
 
     public static int sum(String input) {
         return 0;
+        Baum
     }
 
     public static void main(String[] args) {
